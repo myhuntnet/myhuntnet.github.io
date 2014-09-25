@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: startup-framework-preview.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Collaboration Application, an iPhone based application where users are connected at all times (without any action on thier part).
+title: Phonegap
+
+---
